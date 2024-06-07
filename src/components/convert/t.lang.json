@@ -1,0 +1,7 @@
+{
+    "budgetFlightsCountMessage": "{count, plural, =0 {There are no budget flights set up} =1 {There is a budget flight set up} other {There are # budget flights set up}}",
+    "autoBudgetReallocErrNoMonetary": "Use monetary budget type to activate",
+    "autoBudgetReallocErrNoGoal": "Set a target KPI to activate",
+    "autoBudgetReallocErrNoParentBudgetAndUnlockedBudget": "Unlock the budget or enable parent budget to activate",
+    "autoBudgetReallocErrNoActiveOrFutureBudgetFlights": "Create or extend budget flights to activate"
+}

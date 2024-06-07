@@ -1,0 +1,35 @@
+{
+  "0p5rgN": {
+    "defaultMessage": "This is common message blah"
+  },
+  "4Lf9AC": {
+    "defaultMessage": "This is common message"
+  },
+  "D0TIOT": {
+    "defaultMessage": "This is message 1 from component 2"
+  },
+  "GZaT8S": {
+    "defaultMessage": "Hello \\s \\sHi"
+  },
+  "K4lW3s": {
+    "defaultMessage": "This is message 2 from component 1"
+  },
+  "Q0yuwK": {
+    "defaultMessage": "This is message 3 C2"
+  },
+  "UFxHZd": {
+    "defaultMessage": "This is message 2 from component 2"
+  },
+  "Y0YpXJ": {
+    "defaultMessage": "This is message 3 C1"
+  },
+  "YlNQik": {
+    "defaultMessage": "This is {dynamic} message from component 2"
+  },
+  "omrpoZ": {
+    "defaultMessage": "This is message 1 from component 1"
+  },
+  "yea5OM": {
+    "defaultMessage": "This is {dynamic} message from component 1"
+  }
+}
